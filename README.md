@@ -9,7 +9,15 @@
 ##### Here's a List of things I am currently keeping myself busy with:
 - 🌱 I’m currently trying to set my feet in field of Data Science.
 
-   <hr>
+<br>
+
+[![Atul's github stats](https://github-readme-stats.vercel.app/api?username=Iltwats&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iltwats)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+<em>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on Github</em>
+   </details>
+<hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
