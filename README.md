@@ -43,7 +43,7 @@
     <a href="#" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
   <p align="center">  
-     <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=Iltwats.visitor-badge"> 
+     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Iltwats.visitor-badge"> 
   </p>
 </p>
 
