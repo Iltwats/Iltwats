@@ -30,9 +30,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Iltwats&count_private=true&show_icons=true&theme=radical&line_height=27&v=5" alt="Atul's github stats" />
 </a>
-
+<details>
+  <summary>HitCount</summary>
+  
  [![HitCount](http://hits.dwyl.com/Iltwats/Iltwats.svg)](http://hits.dwyl.com/Iltwats/Iltwats)
-
+</details>
 <hr>
 <p align="center">
    <i>Let's connect and chat! Open to anything under the sun.</i>
