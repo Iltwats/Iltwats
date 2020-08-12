@@ -5,7 +5,6 @@
 
 ### I like experimenting with new technologies, build small projects and occasionally joining hackathons 👋
 ### I am a passionate self-taught developer from India 🔭
-
 #### Here's a List of things I am currently keeping myself busy with:
 - 🌱 Getting myself ready to set my feet in field of Data Science.
 - 🛠  I’m currently learning Python for Data Science and DSA.
