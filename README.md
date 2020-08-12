@@ -3,10 +3,10 @@
 **Iltwats/Iltwats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <img src="https://raw.githubusercontent.com/Iltwats/CDN/master/Atul.svg" alt="Hero image">
 
-#### I like experimenting with new technologies, build small projects and occasionally joining hackathons 👋
-#### I am a passionate self-taught developer from India 🔭
+### I like experimenting with new technologies, build small projects and occasionally joining hackathons 👋
+### I am a passionate self-taught developer from India 🔭
 
-##### Here's a List of things I am currently keeping myself busy with:
+#### Here's a List of things I am currently keeping myself busy with:
 - 🌱 Getting myself ready to set my feet in field of Data Science.
 - 🛠  I’m currently learning Python for Data Science and DSA.
 - ✍️ Writing tech blog posts over at my own **[Blog Page](https://www.techfact.codes/)**.
