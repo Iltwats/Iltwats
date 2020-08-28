@@ -8,7 +8,7 @@
 #### Here's a List of things I am currently keeping myself busy with:
 - 🌱 Getting myself ready to set my feet in field of Data Science.
 - 🛠  I’m currently learning Python for Data Science and DSA.
-- ✍️ Writing tech blog posts over at my own **[Blog Page](https://www.techfact.codes/)**.
+- ✍️ Writing tech blog posts over at my own **[Blog Page](https://techilt.blogspot.com/)**.
 - 💻 In my free time I do Competitive Programming, find me here **[CodeChef](https://www.codechef.com/users/atul_iltwats)**, **[CodeForces](https://codeforces.com/profile/Special_octo20)** and **[AtCoder](https://atcoder.jp/users/Special_octo20)**.
 
 **Languages and Tools:**  
@@ -29,11 +29,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Iltwats&count_private=true&show_icons=true&theme=radical&line_height=27&v=5" alt="Atul's github stats" />
 </a>
-<details>
-  <summary>HitCount</summary>
-  
- [![HitCount](http://hits.dwyl.com/Iltwats/Iltwats.svg)](http://hits.dwyl.com/Iltwats/Iltwats)
-</details>
+
 <hr>
 <p align="center">
    <i>Let's connect and chat! Open to anything under the sun.</i>
