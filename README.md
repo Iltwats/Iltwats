@@ -10,6 +10,7 @@
 - 🛠  I’m currently learning JAVA, OOPS and DSA.
 - ✍️ Writing tech blog posts over at my own **[Blog Page](https://techilt.blogspot.com/)**.
 - 💻 In my free time I do Competitive Programming, find me here **[CodeChef](https://www.codechef.com/users/atul_iltwats)**, **[CodeForces](https://codeforces.com/profile/Special_octo20)** and **[AtCoder](https://atcoder.jp/users/Special_octo20)**.
+- ⚡ My [**RESUME**](https://drive.google.com/file/d/1o9Cu28RUCsc2UB6CMoSMdyKbNdmZPiH-/view?usp=sharing)
 
 **Languages and Tools:**  
 
