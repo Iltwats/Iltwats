@@ -6,7 +6,7 @@
 ### I like experimenting with new technologies, build small projects and occasionally joining hackathons 👋
 ### I am a passionate self-taught developer from India 🔭
 #### Here's a List of things I am currently keeping myself busy with:
-- 🌱 Getting myself ready to set my feet in field of **Android Development**.
+- 🌱 Getting myself ready to set my feet in field of <ins>**Android Development**</ins>.
 - 🛠  I’m currently learning <ins>JAVA</ins>, <ins>OOPS</ins> and <ins>DSA</ins>.
 - ✍️ Writing tech blog posts over at my own **[Blog Page](https://techilt.blogspot.com/)**.
 - 💻 In my free time I do Competitive Programming, find me here **[CodeChef](https://www.codechef.com/users/atul_iltwats)**, **[CodeForces](https://codeforces.com/profile/Special_octo20)** and **[AtCoder](https://atcoder.jp/users/Special_octo20)**.
