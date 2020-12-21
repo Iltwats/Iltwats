@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/Iltwats/CDN/master/Atul.svg" alt="Hero image">
 
 ### I am incredibly passionate about building unique and innovative products, love experimenting with new technologies and occasionally joining hackathons!! 👋
-### I am a self- taught programmer from INDIA. 🔭
+#### I am a self- taught programmer from INDIA. 🔭
 #### Here's a List of things I am currently keeping myself busy with:
 - 🌱 Helping solve local community problems by building <ins>**Android Applications**</ins>.
 - 🛠  I’m currently learning <ins>JAVA</ins>, <ins>OOPS</ins> and <ins>DSA</ins>.
