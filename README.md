@@ -3,10 +3,10 @@
 **Iltwats/Iltwats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <img src="https://raw.githubusercontent.com/Iltwats/CDN/master/Atul.svg" alt="Hero image">
 
-### I like experimenting with new technologies, build small projects and occasionally joining hackathons 👋
-### I am a passionate self-taught developer from India 🔭
+### I am incredibly passionate about building unique and innovative products, love experimenting with new technologies and occasionally joining hackathons!! 👋
+### I am a self- taught programmer from INDIA. 🔭
 #### Here's a List of things I am currently keeping myself busy with:
-- 🌱 Getting myself ready to set my feet in field of <ins>**Android Development**</ins>.
+- 🌱 Helping solve local community problems by building <ins>**Android Applications**</ins>.
 - 🛠  I’m currently learning <ins>JAVA</ins>, <ins>OOPS</ins> and <ins>DSA</ins>.
 - ✍️ Writing tech blog posts over at my own **[Blog Page](https://techilt.blogspot.com/)**.
 - 💻 In my free time I do Competitive Programming, find me here **[CodeChef](https://www.codechef.com/users/atul_iltwats)**, **[CodeForces](https://codeforces.com/profile/Special_octo20)** and **[AtCoder](https://atcoder.jp/users/Special_octo20)**.
