@@ -11,7 +11,8 @@
 - ✍️ Writing tech blog posts over at my own **[Blog Page](https://techilt.blogspot.com/)**.
 - 💻 In my free time I do Competitive Programming, find me here **[CodeChef](https://www.codechef.com/users/atul_iltwats)**, **[CodeForces](https://codeforces.com/profile/Special_octo20)** and **[AtCoder](https://atcoder.jp/users/Special_octo20)**.
 - ⚡ View My [**RESUME**](https://drive.google.com/file/d/1o9Cu28RUCsc2UB6CMoSMdyKbNdmZPiH-/view?usp=sharing).
-- 👯 When I'm not coding, find me on the court playing basketball or cricket!
+- 👯 When I'm not coding, find me on the court playing basketball or cricket!<br>
+
 **Languages and Tools:**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> 
