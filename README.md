@@ -8,7 +8,7 @@
 #### Here's a List of things I am currently keeping myself busy with:
 - 🌱 Helping solve local community problems by building <ins>**Android Applications**</ins>.
 - 🛠  I’m currently learning <ins>JAVA</ins>, <ins>OOPS</ins> and <ins>DSA</ins>.
-- ✍️ Writing tech blog posts over at my own **[Blog Page](https://techilt.blogspot.com/)**.
+- ✍️ Writing tech blog posts over at my own **[Blog Page](https://techilt.blogspot.com/)** will soon be moved to a new domain.
 - 💻 In my free time I do Competitive Programming, find me here **[CodeChef](https://www.codechef.com/users/atul_iltwats)**, **[CodeForces](https://codeforces.com/profile/Special_octo20)** and **[AtCoder](https://atcoder.jp/users/Special_octo20)**.
 - ⚡ View My [**RESUME**](https://drive.google.com/file/d/1o9Cu28RUCsc2UB6CMoSMdyKbNdmZPiH-/view?usp=sharing).
 - 👯 When I'm not coding, find me on the court playing basketball or cricket!<br>
