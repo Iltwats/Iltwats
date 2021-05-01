@@ -31,7 +31,7 @@
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on Github.*
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iltwats&theme=radical&hide=css,html,c,Jupyter Notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iltwats&theme=radical&hide=css,html,c,Jupyter Notebook,Python,Makefile,TypeScript" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Iltwats&count_private=true&show_icons=true&theme=radical&line_height=27&v=5" alt="Atul's github stats" />
