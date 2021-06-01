@@ -3,17 +3,17 @@
 **Iltwats/Iltwats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <img src="https://raw.githubusercontent.com/Iltwats/CDN/master/Atul.svg" alt="Hero image">
 
-### I am incredibly passionate about building unique and innovative products, love experimenting with new technologies and occasionally joining hackathons!! 👋
-#### I am a self- taught programmer from INDIA. 🔭
+## I am incredibly passionate about building unique and innovative products, love experimenting with new technologies and occasionally joining hackathons!! 👋
+### I am a self- taught programmer from INDIA. 🔭
 #### Here's a List of things I am currently keeping myself busy with:
-- 🌱 Helping solve local community problems by building <ins>**Android Applications**</ins>.
-- 🛠  I’m currently learning <ins>JAVA</ins>, <ins>OOPS</ins> and <ins>DSA</ins>.
-- ✍️ Writing tech blog posts over at my own **[Blog Page](https://techilt.blogspot.com/)** will soon be moved to a new domain.
+- 🌱 Helping solve local community problems by building <ins>**Android Applications**</ins> that bring impact on people lifes.
+- 🛠  I’m currently learning <ins>Android</ins>, <ins>Kotlin</ins> and <ins>DSA</ins>.
+- ✍️ Writing tech blog posts over my **[Blog Page](http://2012atulsharma.medium.com/)** to help more developers learn from my experience.
 - 💻 In my free time I do Competitive Programming, find me here **[CodeChef](https://www.codechef.com/users/atul_iltwats)**, **[CodeForces](https://codeforces.com/profile/Special_octo20)** and **[AtCoder](https://atcoder.jp/users/Special_octo20)**.
-- ⚡ View My [**RESUME**](https://drive.google.com/file/d/1o9Cu28RUCsc2UB6CMoSMdyKbNdmZPiH-/view?usp=sharing).
-- 👯 When I'm not coding, find me on the court playing basketball or cricket!<br>
+- ⚡ View My [**RESUME**](https://1drv.ms/b/s!AnPKujDtsoByx08MHdcvD8HGCxCm?e=BePPHH).
+- 👯 When I'm not coding, find me on the court playing basketball or cricket!😉<br>
 
-**Languages and Tools:**  
+**Languages and Tools familiar or experience with:**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
