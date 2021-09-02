@@ -30,13 +30,37 @@
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on Github.*
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iltwats&layout=compact&theme=radical&langs_count=10&card_width=300&hide=Makefile" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Iltwats&count_private=true&show_icons=true&theme=radical&line_height=27&v=5&include_all_commits=true" alt="Atul's github stats" />
-</a>
+## 📈 Stats
 
+<div align="center">
+  <div align="center">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img
+        align="left"
+        width="396"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iltwats&theme=react&border=61dafb&hide_border=true"
+        alt="Some Records"
+      />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img
+        align="right"
+        width="396"
+        src="https://github-readme-stats.vercel.app/api?username=iltwats&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
+      />
+    </a>
+  </div>
+  <br /><br /><br /><br /><br /><br /><br /><br />
+  <div align="center" title="Go to Source">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img
+        width="335"
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iltwats&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=Jupyter Notebook,CSS,Makefile"
+      />
+    </a>
+  </div>
+  <br />
 <hr>
 <p align="center">
    <i>Let's connect and chat! Open to anything under the sun.</i>
@@ -61,3 +85,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ....
 -->
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iltwats&layout=compact&theme=radical&langs_count=10&card_width=300&hide=Makefile" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Iltwats&count_private=true&show_icons=true&theme=radical&line_height=27&v=5&include_all_commits=true" alt="Atul's github stats" />
+</a> -->
