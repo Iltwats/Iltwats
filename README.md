@@ -1,7 +1,7 @@
 
 <!--
 **Iltwats/Iltwats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<img src="https://raw.githubusercontent.com/Iltwats/CDN/master/Atul.svg" alt="Hero image">
+<img src="https://github.com/Iltwats/Iltwats/raw/master/resources/gitInto.jpg" alt="Hero image">
 
 ## I am incredibly passionate about building unique and innovative products, love experimenting with new technologies and occasionally joining hackathons!! 👋
 ### I am a self- taught programmer from INDIA. 🔭
