@@ -3,14 +3,14 @@
 **Iltwats/Iltwats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <img src="https://github.com/Iltwats/Iltwats/raw/master/resources/gitInto.jpg" alt="Hero image">
 
-## I am incredibly passionate about building unique and innovative products, love experimenting with new technologies and occasionally joining hackathons!! 👋
-### I am a self- taught programmer from INDIA. 🔭
+### I am incredibly passionate about building unique and innovative products, love experimenting with new technologies and occasionally joining hackathons!! 👋
+### I am a self-taught programmer from INDIA. 🔭
 #### Here's a List of things I am currently keeping myself busy with:
 - 🌱 Helping solve local community problems by building <ins>**Android Applications**</ins> that bring impact on people lifes.
-- 🛠  I’m currently learning <ins>Android</ins>, <ins>Kotlin</ins> and <ins>DSA</ins>.
+- 🛠  I’m currently learning <ins>Android</ins>, <ins>Kotlin</ins>, <ins>Design Patterns</ins> and <ins>Jetpack Compose</ins>.
 - ✍️ Writing tech blog posts over my **[Blog Page](http://2012atulsharma.medium.com/)** to help more developers learn from my experience.
 - 💻 In my free time I do Competitive Programming, find me here **[CodeChef](https://www.codechef.com/users/atul_iltwats)**, **[CodeForces](https://codeforces.com/profile/Special_octo20)** and **[AtCoder](https://atcoder.jp/users/Special_octo20)**.
-- ⚡ To know more headout to my [Portfolio](http://iltwats.github.io/).
+- ⚡ To know more headout to my **[Portfolio](http://iltwats.github.io/)**.
 - 👯 When I'm not coding, find me on the court playing basketball or cricket!😉<br>
 
 **Languages and Tools familiar or experience with:**  
@@ -32,9 +32,8 @@
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"></code>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on Github.*
 
-## 📈 Stats
+## 📈 Some Stats
 
 <div align="center">
   <div align="center">
@@ -65,6 +64,7 @@
     </a>
   </div>
   <br />
+<p align="left">NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on Github.</p>
 <hr>
 <p align="center">
    <i>Let's connect and chat! Open to anything under the sun.</i>
