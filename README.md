@@ -58,7 +58,7 @@
       <img
         width="335"
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iltwats&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=Jupyter Notebook,CSS,Makefile"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iltwats&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=Jupyter Notebook,CSS,Makefile,Dockerfile,HTML"
       />
     </a>
   </div>
