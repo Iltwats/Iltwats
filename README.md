@@ -6,8 +6,9 @@
 ### I am incredibly passionate about building unique and innovative products, love experimenting with new technologies and occasionally joining hackathons!! 👋
 ### I am a self-taught programmer from INDIA. 🔭
 #### Here's a List of things I am currently keeping myself busy with:
-- 🌱 Helping solve local community problems by building <ins>**Android Applications**</ins> that bring impact on people lifes.
-- 🛠  I’m currently learning <ins>Android</ins>, <ins>Kotlin</ins>, <ins>Design Patterns</ins> and <ins>Jetpack Compose</ins>.
+- 🌱 Helping solve local community issues by developing impactful web and mobile software that improves people's lives.
+- 🛠 I am currently a full-stack engineer doing **Ruby on Rails** for backend & **React** for frontend, and I occasionally contribute to machine learning initiatives.
+- 🕟 Previously, I have had experience building mobile applications using Native Android Development with **Kotlin**, **Java**, and **Jetpack Compose**.
 - ✍️ Writing tech blog posts over my **[Blog Page](http://2012atulsharma.medium.com/)** to help more developers learn from my experience.
 - 💻 In my free time I do Competitive Programming, find me here **[CodeChef](https://www.codechef.com/users/atul_iltwats)**, **[CodeForces](https://codeforces.com/profile/Special_octo20)** and **[AtCoder](https://atcoder.jp/users/Special_octo20)**.
 - ⚡ To know more headout to my **[Portfolio](https://atul-sharma.com/)**.
