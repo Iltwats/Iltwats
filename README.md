@@ -37,11 +37,11 @@
 
 <div align="center">
   <div align="center">
-    <a href="https://git.io/streak-stats" title="Go to Source">
+    <a href="https://www.linkedin.com/in/1220atul/" title="Go to Source">
       <img
         align="left"
         width="396"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Iltwats&theme=react&border=61dafb&hide_border=true"
+        src="https://streak-stats.demolab.com?user=Iltwats&theme=react&hide_border=true" alt="GitHub Streak"
         alt="Some Records"
       />
     </a>
