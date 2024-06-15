@@ -45,21 +45,21 @@
         alt="Some Records"
       />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://atul-sharma.com" title="Go to Source">
       <img
         align="right"
         width="396"
-        src="https://github-readme-stats.vercel.app/api?username=Iltwats&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
+        src="https://iltwats-github-readme-stats.vercel.app/api?username=Iltwats&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
       />
     </a>
   </div>
   <br /><br /><br /><br /><br /><br /><br /><br />
   <div align="center" title="Go to Source">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/Iltwats/github-readme-stats">
       <img
         width="335"
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iltwats&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=CSS,Makefile,Dockerfile,HTML&exclude_repo=space_game_msLearn"
+        src="https://iltwats-github-readme-stats.vercel.app/api/top-langs/?username=Iltwats&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=CSS,Makefile,Dockerfile,HTML,SCSS,Shell&exclude_repo=space_game_msLearn&size_weight=0.40&count_weight=0.75"
       />
     </a>
   </div>
