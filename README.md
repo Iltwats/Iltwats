@@ -38,7 +38,7 @@
       <img
         align="left"
         width="396"
-        src="https://streak-stats.demolab.com?user=Iltwats&theme=react&hide_border=true" alt="GitHub Streak"
+        src="https://github-readme-streak-stats-eta-five.vercel.app?user=Iltwats&theme=react&hide_border=true" alt="GitHub Streak"
         alt="Some Records"
       />
     </a>
