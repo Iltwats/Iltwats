@@ -7,12 +7,11 @@
 ### I am a self-taught programmer from INDIA. 🔭
 #### Here's a List of things I am currently keeping myself busy with:
 - 🌱 Helping solve local community issues by developing impactful web and mobile software that improves people's lives.
-- 🛠 I am currently a full-stack engineer doing **Ruby on Rails** for backend & **React** for frontend, and I occasionally contribute to machine learning initiatives.
-- 🕟 Previously, I have had experience building mobile applications using Native Android Development with **Kotlin**, **Java**, and **Jetpack Compose**.
+- 🛠 Currently working with an algorithmic trading company **[Algotest](https://algotest.in/)** leveraging **Python**, **C++**, and **ML** for developing core trading platform, find me [here](https://github.com/atul-algotest).
+- 🕟 Previously, I have had experience building mobile applications using Native Android Development with **Kotlin**, **Java**, and **Jetpack Compose** and backend stuff using **Rails**, **Python**.
 - ✍️ Writing tech blog posts over my **[Blog Page](http://blog.atul-sharma.com/)** to help more developers learn from my experience.
 - 💻 In my free time I do Competitive Programming, find me here **[CodeChef](https://www.codechef.com/users/atul_iltwats)**, **[CodeForces](https://codeforces.com/profile/Special_octo20)**, **[AtCoder](https://atcoder.jp/users/Special_octo20)**, and **[LeetCode](https://leetcode.com/u/Special_octo20/)**.
 - ⚡ To know more headout to my **[Portfolio](https://atul-sharma.com/)**.
-- 👯 When I'm not coding, find me on the court playing basketball or cricket!😉<br>
 
 **Languages and Tools familiar or experience with:**  
 
@@ -72,7 +71,7 @@
     <a href="https://iltwats.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
   <p align="center">  
-     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Iltwats.visitor-badge"> 
+     <img align="center" src="http://visitor-badge.laobi.icu/badge?page_id=Iltwats.visitor-badge"> 
   </p>
 </p>
 
